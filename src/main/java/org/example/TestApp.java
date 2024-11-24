@@ -4,6 +4,6 @@ package org.example;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class TestApp {
     public static void main(String[] args) {
-        System.out.println("Hello Emrea");
+        System.out.println("Hello Emrealak");
         }
     }
